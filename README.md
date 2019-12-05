@@ -26,25 +26,21 @@ The circuit diagram for Project H.E.A.R. ver2 is as shown below:
 ### Method/Redesign/Working :
 
 - **Version 1:**
-  •	Automatic and instant detection of fire/gas leak with H.E.A.R.
-  •	Immediately alert sent to rescue authorities – Police, Hospital and Fire Station.
-  •	Alarm rung to alert the people nearby.
-  •	Speedy rescue operations ensue as there is no delay in intimating the authorities so that they can take charge at the earliest.
+  -	Automatic and instant detection of fire/gas leak with H.E.A.R.
+  -	Immediately alert sent to rescue authorities – Police, Hospital and Fire Station.
+  -	Alarm rung to alert the people nearby.
+  -	Speedy rescue operations ensue as there is no delay in intimating the authorities so that they can take charge at the earliest.
 
   The circuit for Project H.E.A.R. ver1 is as shown below:
 
 ![Alt text](/Pics/circuit.jpg)
 
 -	**Version 2:**
-  •	Automatic and instant detection of fire/gas leak with real-time data monitoring by H.E.A.R.
-  •	Alert and location data are instantly updated to our dedicated servers.
-  •	H.E.A.R. android app updates data in real-time and gets refreshed from the server continuously.
-  •	H.E.A.R. android app shows up fire affected sites in a defined radius.
-  •	Navigation to site via the shortest and fastest route which is suggested by precise and intelligent algorithms.
-
-The model setup is as shown below:
-
-![Alt text](/Pics/model.jpg)
+  -	Automatic and instant detection of fire/gas leak with real-time data monitoring by H.E.A.R.
+  -	Alert and location data are instantly updated to our dedicated servers.
+  - H.E.A.R. android app updates data in real-time and gets refreshed from the server continuously.
+  -	H.E.A.R. android app shows up fire affected sites in a defined radius.
+  -	Navigation to site via the shortest and fastest route which is suggested by precise and intelligent algorithms.
 
 - **Version 1:**
 This prototype is sends alerts using cellular networks by the use of a sim card and a SIM900 GSM module to the respective phone numbers of the users as text messages with details about the fire location.
