@@ -49,3 +49,9 @@ The circuit diagram for Project H.E.A.R. ver2 is as shown below:
 
     _ver2 Summary:_
       - This prototype sends alerts to the server over a Wi-Fi network by the ESP32 Wi-Fi chip, whenever there is a fire. The precise location is updated to the servers instantaneously with the neo 6m module. The H.E.A.R. android app updates data in real-time and gets refreshed from the server continuously. Whenever it senses fire around the H.E.A.R. android app user in a 5 km radius it shows up the markers at fire incidents locations. The user can select a marker location and navigate to it via the shortest and fastest route which is suggested by precise and intelligent algorithms.
+
+      The circuit for Project H.E.A.R. ver2 is as shown below:
+
+      <p align="center">
+        <img width="375" height="285" src="/Pics/circver2.jpg">
+      </p>
