@@ -37,7 +37,7 @@ The circuit diagram for Project H.E.A.R. ver2 is as shown below:
     The circuit for Project H.E.A.R. ver1 is as shown below:
 
     <p align="center">
-      <img width="320" height="378" src="![Alt text](/Pics/circuit.jpg)">
+      <img width="320" height="378" src="/Pics/circuit.jpg">
     </p>
 
 
