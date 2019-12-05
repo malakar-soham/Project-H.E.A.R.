@@ -40,12 +40,13 @@ The circuit diagram for Project H.E.A.R. ver2 is as shown below:
       <img width="320" height="378" src="/Pics/circuit.jpg">
     </p>
 
--	**Version 2:**
-  -	Automatic and instant detection of fire/gas leak with real-time data monitoring by H.E.A.R.
-  -	Alert and location data are instantly updated to our dedicated servers.
-  - H.E.A.R. android app updates data in real-time and gets refreshed from the server continuously.
-  -	H.E.A.R. android app shows up fire affected sites in a defined radius.
-  -	Navigation to site via the shortest and fastest route which is suggested by precise and intelligent algorithms.
+  -	**Version 2:**
+    -	Automatic and instant detection of fire/gas leak with real-time data monitoring by H.E.A.R.
+    -	Alert and location data are instantly updated to our dedicated servers.
+    -	H.E.A.R. android app updates data in real-time and gets refreshed from the server continuously.
+    -	H.E.A.R. android app shows up fire affected sites in a defined radius.
+    -	Navigation to site via the shortest and fastest route which is suggested by precise and intelligent algorithms.
+
 
    _ver2 Summary:_
-      - This prototype sends alerts to the server over a Wi-Fi network by the ESP32 Wi-Fi chip, whenever there is a fire. The precise location is updated to the servers instantaneously with the neo 6m module. The H.E.A.R. android app updates data in real-time and gets refreshed from the server continuously. Whenever it senses fire around the H.E.A.R. android app user in a 5 km radius it shows up the markers at fire incidents locations. The user can select a marker location and navigate to it via the shortest and fastest route which is suggested by precise and intelligent algorithms.
+    - This prototype sends alerts to the server over a Wi-Fi network by the ESP32 Wi-Fi chip, whenever there is a fire. The precise location is updated to the servers instantaneously with the neo 6m module. The H.E.A.R. android app updates data in real-time and gets refreshed from the server continuously. Whenever it senses fire around the H.E.A.R. android app user in a 5 km radius it shows up the markers at fire incidents locations. The user can select a marker location and navigate to it via the shortest and fastest route which is suggested by precise and intelligent algorithms.
