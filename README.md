@@ -6,7 +6,7 @@
 
 #### By Soham Malakar and Swastik Malakar
 
-![Alt text](/Pics/Poster.png)
+![Alt text](/Pics/Poster.jpg)
 
 ### Summary:
 Presently, the number of fire accidents leading to loss of life and assets has been nerve breaking. The rapid spread of the fire coupled with inefficient notification system, hinders people in the densely populated areas to escape. Our research showed that most fires grew into disasters due to delayed/wrong communication.
@@ -21,7 +21,7 @@ The mobile application notifies the concerned authorities of the precise inciden
 
 The circuit diagram for Project H.E.A.R. ver2 is as shown below:
 
-![Alt text](/Pics/Circuit.png)
+![Alt text](/Pics/CDiag.jpg)
 
 ### Method/Redesign/Working :
 
@@ -30,10 +30,9 @@ The circuit diagram for Project H.E.A.R. ver2 is as shown below:
   -	Immediately alert sent to rescue authorities – Police, Hospital and Fire Station.
   -	Alarm rung to alert the people nearby.
   -	Speedy rescue operations ensue as there is no delay in intimating the authorities so that they can take charge at the earliest.
+    The circuit for Project H.E.A.R. ver1 is as shown below:
 
-  The circuit for Project H.E.A.R. ver1 is as shown below:
-
-![Alt text](/Pics/circuit.jpg)
+    ![Alt text](/Pics/circuit.jpg)
 
 -	**Version 2:**
   -	Automatic and instant detection of fire/gas leak with real-time data monitoring by H.E.A.R.
