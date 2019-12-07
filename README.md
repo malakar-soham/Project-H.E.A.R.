@@ -13,7 +13,7 @@ Presently, the number of fire accidents leading to loss of life and assets has b
 
 The call of the hour is not a post-incident analysis but rather a prompt action at the occurrence of the incident through automated artificially engineered machine that would send instant alerts to all the emergency authorities reducing the communication time and speeding up rescue operations.
 
-Fire reforms should be planned through simple, inexpensive ways for protecting our homes and lowering the losses drastically. Keeping this in mind we created H.E.A.R., handy, user-friendly, 24*7*365 vigil, affordable alert system.
+Fire reforms should be planned through simple, inexpensive ways for protecting our homes and lowering the losses drastically. Keeping this in mind we created H.E.A.R., handy, user-friendly, 24x7x365 vigil, affordable alert system.
 
 The mobile application notifies the concerned authorities of the precise incident location, showing routes to reach the location in shortest time and distance. Rescue operations will start in no time with a nonverbal yet accurate communication.
 
@@ -55,3 +55,10 @@ The circuit diagram for Project H.E.A.R. ver2 is as shown below:
       <p align="center">
         <img width="375" height="285" src="/Pics/circver2.jpg">
       </p>
+
+## Application :
+
+Rooms with restricted access (example: server rooms) require an early smoke/fire detection, alert and alarm system along with a suppression system. Certain vehicles such as trucks with containers, other long un-monitored/manually monitored vehicles often run into mishaps on road, leading to other complications such as traffic blockages even environmental damage if they carry hazardous/inflammable matter. Such events go unnoticed until a spark has developed into a raging massive destructive fire.
+
+People are protected, even while they sleep, if a fire should occur. Left apart, the capable ones to call the emergency service, for the independent elderly living alone, a better answer would be a fire or gas leakage detector that actually summons help from emergency services instantaneously.
+The number of fire losses and devastation can be brought down and possibly stopped, if people understand the importance of fire safety and install the user-friendly, smart system, H.E.A.R.
