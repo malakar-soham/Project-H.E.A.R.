@@ -13,7 +13,7 @@ Presently, the number of fire accidents leading to loss of life and assets has b
 
 The call of the hour is not a post-incident analysis but rather a prompt action at the occurrence of the incident through automated artificially engineered machine that would send instant alerts to all the emergency authorities reducing the communication time and speeding up rescue operations.
 
-Fire reforms should be planned through simple, inexpensive ways for protecting our homes and lowering the losses drastically. Keeping this in mind we created H.E.A.R., handy, user-friendly, 24*7*365 vigil, affordable alert system.
+Fire reforms should be planned through simple, inexpensive ways for protecting our homes and lowering the losses drastically. Keeping this in mind we created H.E.A.R., handy, user-friendly, 24x7x365 vigil, affordable alert system.
 
 The mobile application notifies the concerned authorities of the precise incident location, showing routes to reach the location in shortest time and distance. Rescue operations will start in no time with a nonverbal yet accurate communication.
 
