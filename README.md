@@ -17,11 +17,15 @@ Fire reforms should be planned through simple, inexpensive ways for protecting o
 
 The mobile application notifies the concerned authorities of the precise incident location, showing routes to reach the location in shortest time and distance. Rescue operations will start in no time with a nonverbal yet accurate communication.
 
+## Video Links
+- [Project Summary](https://youtu.be/g-wypEyHWYA)
+- [Contained Testing](https://youtu.be/KL8Guwk_Bd0)
+
 ## Circuit Diagram:
 
 The circuit diagram for Project H.E.A.R. ver2 is as shown below:
 
-![Alt text](/Pics/CDiag.jpg)
+![Circuit](/Pics/CDiag.jpg)
 
 ## Method/Redesign/Working :
 
